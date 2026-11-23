@@ -1,0 +1,91 @@
+student_id,name,fyp_level,project_title,project_description,supervisor
+2024100000,Student 001,FYP1,Secure File Sharing System with Encryption for Public Universities,,Dr Kumar
+2024100001,Student 002,FYP2,E-Commerce Website with Admin Panel in Rural Areas,,Dr Devi
+2024100002,Student 003,FYP1,Sales Forecasting Analytics Dashboard in Selangor,,Dr Eva
+2024100003,Student 004,FYP2,Mobile App for Mosque Event Notification for Local Communities,,Dr Wong
+2024100004,Student 005,FYP1,IoT Smart Home Monitoring with Arduino for Local Communities,,Dr Faizal
+2024100005,Student 006,FYP2,Face Recognition Attendance System in Selangor,,Dr Lim
+2024100006,Student 007,FYP1,Malay Text Summarisation Tool for Local Communities,,Dr Kumar
+2024100007,Student 008,FYP2,Augmented Reality Learning App for Children for Small Businesses,,Dr Wong
+2024100008,Student 009,FYP1,DevOps Pipeline for Web Deployment for Public Universities,,Dr Siti
+2024100009,Student 010,FYP2,Genetic Algorithm for Nurse Rostering for UiTM Students,,Dr Wong
+2024100010,Student 011,FYP1,Mental Health Self-Assessment App for Small Businesses,,Dr Nurul
+2024100011,Student 012,FYP2,Spatial Analysis of Flood-Prone Areas for Malaysian SMEs,,Dr Rahman
+2024100012,Student 013,FYP1,Secure File Sharing System with Encryption for Local Communities,,Dr Wong
+2024100013,Student 014,FYP2,E-Commerce Website with Admin Panel for Local Communities,,Dr Devi
+2024100014,Student 015,FYP1,Customer Churn Prediction Using Data Mining for Local Communities,,Dr Eva
+2024100015,Student 016,FYP2,Cross-Platform Flutter App for Food Ordering for Malaysian SMEs,,Dr Aminah
+2024100016,Student 017,FYP1,IoT Smart Home Monitoring with Arduino for Government Agencies,,Dr Faizal
+2024100017,Student 018,FYP2,Face Recognition Attendance System for Local Communities,,Dr Chen
+2024100018,Student 019,FYP1,Automatic Essay Scoring with NLP for UiTM Students,,Dr Kumar
+2024100019,Student 020,FYP2,Educational Game for Learning Jawi for Government Agencies,,Dr Siti
+2024100020,Student 021,FYP1,Distributed Cloud Storage Monitoring Tool in Rural Areas,,Dr Hafiz
+2024100021,Student 022,FYP2,Exam Timetable Scheduling Using Harmony Search for Public Universities,,Dr Wong
+2024100022,Student 023,FYP1,Diabetes Risk Decision Support System for Small Businesses,,Dr Nurul
+2024100023,Student 024,FYP2,Web GIS for Halal Restaurant Finder in Rural Areas,,Dr Rahman
+2024100024,Student 025,FYP1,Password Strength and Breach Checker for Small Businesses,,Dr Chen
+2024100025,Student 026,FYP2,E-Commerce Website with Admin Panel for Local Communities,,Dr Devi
+2024100026,Student 027,FYP1,Sales Forecasting Analytics Dashboard for UiTM Students,,Dr Faizal
+2024100027,Student 028,FYP2,Cross-Platform Flutter App for Food Ordering for Small Businesses,,Dr Aminah
+2024100028,Student 029,FYP1,Embedded Air Quality Monitoring Device for Local Communities,,Dr Faizal
+2024100029,Student 030,FYP2,Object Detection for Retail Shelf Monitoring for Small Businesses,,Dr Lim
+2024100030,Student 031,FYP1,Automatic Essay Scoring with NLP for Small Businesses,,Dr Kumar
+2024100031,Student 032,FYP2,Augmented Reality Learning App for Children for Malaysian SMEs,,Dr Siti
+2024100032,Student 033,FYP1,Serverless Microservices for Online Voting for Local Communities,,Dr Hafiz
+2024100033,Student 034,FYP2,Course Timetabling with Metaheuristics for Malaysian SMEs,,Dr Wong
+2024100034,Student 035,FYP1,Hospital Bed Management Information System for Local Communities,,Dr Nurul
+2024100035,Student 036,FYP2,Bus Tracking System with Real-Time Map for Small Businesses,,Dr Devi
+2024100036,Student 037,FYP1,Malware Classification Tool for Government Agencies,,Dr Rahman
+2024100037,Student 038,FYP2,Student Club Management System in Selangor,,Dr Devi
+2024100038,Student 039,FYP1,Machine Learning Model to Predict Student Dropout in Rural Areas,,Dr Eva
+2024100039,Student 040,FYP2,Mobile App for Mosque Event Notification for Malaysian SMEs,,Dr Eva
+2024100040,Student 041,FYP1,Embedded Air Quality Monitoring Device for Public Universities,,Dr Faizal
+2024100041,Student 042,FYP2,Deep Learning Detection of Plant Leaf Disease from Images for Local Communities,,Dr Lim
+2024100042,Student 043,FYP1,Chatbot for University Student Enquiries for UiTM Students,,Dr Kumar
+2024100043,Student 044,FYP2,Educational Game for Learning Jawi for Government Agencies,,Dr Siti
+2024100044,Student 045,FYP1,DevOps Pipeline for Web Deployment for Small Businesses,,Dr Hafiz
+2024100045,Student 046,FYP2,Genetic Algorithm for Nurse Rostering in Rural Areas,,Dr Wong
+2024100046,Student 047,FYP1,Hospital Bed Management Information System in Selangor,,Dr Nurul
+2024100047,Student 048,FYP2,Bus Tracking System with Real-Time Map for Malaysian SMEs,,Dr Devi
+2024100048,Student 049,FYP1,Password Strength and Breach Checker for Public Universities,,Dr Chen
+2024100049,Student 050,FYP2,Student Club Management System for Local Communities,,Dr Devi
+2024100050,Student 051,FYP1,Credit Risk Classification with Random Forest for Malaysian SMEs,,Dr Eva
+2024100051,Student 052,FYP2,Mobile Expense Tracker App in Rural Areas,,Dr Aminah
+2024100052,Student 053,FYP1,Sensor-Based Flood Early Warning System for Small Businesses,,Dr Wong
+2024100053,Student 054,FYP2,Fruit Ripeness Classification with CNN for UiTM Students,,Dr Aminah
+2024100054,Student 055,FYP1,Sentiment Analysis of Malaysian Product Reviews for Small Businesses,,Dr Wong
+2024100055,Student 056,FYP2,Online Quiz System with Gamification for UiTM Students,,Dr Siti
+2024100056,Student 057,FYP1,Distributed Cloud Storage Monitoring Tool in Rural Areas,,Dr Hafiz
+2024100057,Student 058,FYP2,Course Timetabling with Metaheuristics for Public Universities,,Dr Rahman
+2024100058,Student 059,FYP1,Telemedicine Platform for Rural Patients for Malaysian SMEs,,Dr Nurul
+2024100059,Student 060,FYP2,Web GIS for Halal Restaurant Finder for UiTM Students,,Dr Rahman
+2024100060,Student 061,FYP1,Intelligent Web-Based Forensic System for Detecting Phishing Threats for Malaysian SMEs,,Dr Chen
+2024100061,Student 062,FYP2,Online Booking System with Database Management in Selangor,,Dr Devi
+2024100062,Student 063,FYP1,Credit Risk Classification with Random Forest for Government Agencies,,Dr Eva
+2024100063,Student 064,FYP2,Cross-Platform Flutter App for Food Ordering for Malaysian SMEs,,Dr Aminah
+2024100064,Student 065,FYP1,Embedded Air Quality Monitoring Device for UiTM Students,,Dr Faizal
+2024100065,Student 066,FYP2,Fruit Ripeness Classification with CNN for Government Agencies,,Dr Kumar
+2024100066,Student 067,FYP1,Automatic Essay Scoring with NLP for Public Universities,,Dr Kumar
+2024100067,Student 068,FYP2,Educational Game for Learning Jawi for Local Communities,,Dr Faizal
+2024100068,Student 069,FYP1,Serverless Microservices for Online Voting for Public Universities,,Dr Hafiz
+2024100069,Student 070,FYP2,Course Timetabling with Metaheuristics for UiTM Students,,Dr Wong
+2024100070,Student 071,FYP1,Telemedicine Platform for Rural Patients for Small Businesses,,Dr Nurul
+2024100071,Student 072,FYP2,Bus Tracking System with Real-Time Map in Rural Areas,,Dr Rahman
+2024100072,Student 073,FYP1,Secure File Sharing System with Encryption in Selangor,,Dr Chen
+2024100073,Student 074,FYP2,E-Commerce Website with Admin Panel for Government Agencies,,Dr Devi
+2024100074,Student 075,FYP1,Credit Risk Classification with Random Forest for Small Businesses,,Dr Eva
+2024100075,Student 076,FYP2,Cross-Platform Flutter App for Food Ordering for UiTM Students,,Dr Aminah
+2024100076,Student 077,FYP1,IoT Smart Home Monitoring with Arduino in Selangor,,Dr Nurul
+2024100077,Student 078,FYP2,Vehicle Plate Recognition Using Image Processing for Malaysian SMEs,,Dr Lim
+2024100078,Student 079,FYP1,Malay Text Summarisation Tool for Local Communities,,Dr Kumar
+2024100079,Student 080,FYP2,Augmented Reality Learning App for Children for Public Universities,,Dr Siti
+2024100080,Student 081,FYP1,Blockchain-Based Certificate Verification System for Government Agencies,,Dr Hafiz
+2024100081,Student 082,FYP2,Vehicle Routing Optimisation for Delivery for Public Universities,,Dr Wong
+2024100082,Student 083,FYP1,Clinic Appointment and Patient Record System for UiTM Students,,Dr Nurul
+2024100083,Student 084,FYP2,Web GIS for Halal Restaurant Finder for Local Communities,,Dr Hafiz
+2024100084,Student 085,FYP1,Secure File Sharing System with Encryption for Government Agencies,,Dr Chen
+2024100085,Student 086,FYP2,E-Commerce Website with Admin Panel for Government Agencies,,Dr Nurul
+2024100086,Student 087,FYP1,Crop Yield Prediction with Regression for Government Agencies,,Dr Eva
+2024100087,Student 088,FYP2,Mobile App for Mosque Event Notification for Government Agencies,,Dr Aminah
+2024100088,Student 089,FYP1,IoT Smart Home Monitoring with Arduino for Malaysian SMEs,,Dr Faizal
+2024100089,Student 090,FYP2,Face Recognition Attendance System in Selangor,,Dr Lim
